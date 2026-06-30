@@ -1,6 +1,6 @@
 
-# 💫 About Me:
-## About Me :<br><br>- 🔭 I’m currently working on **high-performance Java backend systems, full-stack web applications, and AI-powered developer tools.**<br>- 👯 I’m looking to collaborate on **Open Source, Java Backend, MERN Stack, and Generative AI projects.**<br>- 🤝 I’m looking for help with **Distributed Systems, System Design, Cloud Technologies, and AI Infrastructure.**<br>- 🌱 I’m currently learning **Advanced DSA, Spring Boot, Microservices, Docker, and LLM Engineering.**<br>- 💬 Ask me about **Java, Data Structures & Algorithms, Multithreading, React.js, Node.js, MongoDB, and AI API Integration.**<br>- ⚡ Fun fact: **I love optimizing code—I've built systems that reduced query latency by 28%, improved Lighthouse performance by 40%, and enjoy solving algorithmic challenges every day.**
+# About me
+<br><br>- 🔭 I’m currently working on **high-performance Java backend systems, full-stack web applications, and AI-powered developer tools.**<br>- 👯 I’m looking to collaborate on **Open Source, Java Backend, MERN Stack, and Generative AI projects.**<br>- 🤝 I’m looking for help with **Distributed Systems, System Design, Cloud Technologies, and AI Infrastructure.**<br>- 🌱 I’m currently learning **Advanced DSA, Spring Boot, Microservices, Docker, and LLM Engineering.**<br>- 💬 Ask me about **Java, Data Structures & Algorithms, Multithreading, React.js, Node.js, MongoDB, and AI API Integration.**<br>- ⚡ Fun fact: **I love optimizing code—I've built systems that reduced query latency by 28%, improved Lighthouse performance by 40%, and enjoy solving algorithmic challenges every day.**
 
 
 ## 🌐 Socials:
